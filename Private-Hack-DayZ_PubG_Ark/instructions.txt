@@ -1,0 +1,25 @@
+HOW TO CRACK:
+
+1. Open the folder "Debugger" and run "x64dbg.exe" !as Administrator!
+
+2. Go to Plugins > Scyllahide -> Load Profile -> VMProtect
+
+3. Once done click the File Icon and open "Loader.exe"
+  > If at the bottom left of the window the small box is RED/or/YELLOW click the top button (ARROW POINTING TO THE RIGHT) "Run" Until not RED/or/YELLOW
+    > If program freeze's this is why, Click RUN until un-frozen and fully running (to bypass breakpoints)
+
+4. Once Loader is running and working, Go to the top click File -> Patch
+  > Once Patch Menu is open (can also press ALT + P) click IMPORT and import file "unlock_sub3.1337"
+
+5. Once all patches applied close patch menu and make sure program is running
+  > May have to click RUN button again (arrow facing to the right)
+
+6. Go to the top again and click File -> Detach and close X64DBG
+
+7. Enter any key and continue.
+
+8. Cracked!
+
+
+[FOR HELP]
+- For any help create a ticket in the discord.
