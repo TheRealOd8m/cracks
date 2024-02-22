@@ -1,0 +1,13 @@
+[NAME]|[PRICE]|[SLOTS]|[TRADER] | DO NOT DELETE THIS LINE\
+Deadlyslob's beard oil|34933|1|Therapist
+RB-RLSA key|47972|1|Therapist
+Bulbex cable cutter|66150|2|Therapist
+Concordia security room key|45625|1|Therapist
+Tetriz portable game console|75600|2|Therapist
+Pipe grip wrench|83160|2|Therapist
+"Obdolbos" cocktail injector|37674|1|Therapist
+Key tool|471525|1|Therapist
+Keycard holder case|288825|1|Therapist
+Radar station commandant room key|163800|1|Therapist
+Kiba Arms inner grate door key|105463|1|Therapist
+AK TDI AKM-L handguard (Anodized Red)|15568|1|Mechanic
